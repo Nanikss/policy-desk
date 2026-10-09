@@ -1,6 +1,6 @@
 # Policy Desk
 
-[![CI](https://github.com/kumarnenavath5815-cpu/policy-desk/actions/workflows/ci.yml/badge.svg)](https://github.com/kumarnenavath5815-cpu/policy-desk/actions/workflows/ci.yml)
+[![CI](https://github.com/Nanikss/policy-desk/actions/workflows/ci.yml/badge.svg)](https://github.com/Nanikss/policy-desk/actions/workflows/ci.yml)
 
 A small full-stack app for the lifecycle of surplus lines insurance policies: **quote → issue → mid-term endorsement → cancellation → reinstatement**, with penny-accurate premium, tax and fee calculations.
 
